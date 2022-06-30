@@ -9,5 +9,5 @@ including time and memory requirement analysis of various searching and sorting 
 Time Complexity, Insertion sort, Merge sort, Heap sort, Priority Queue, Quicksort, 
 Dynamic Set, Dictionary, Binary Search Tree, and Introduction to Red-Black Tree
 ### **Examination Schedules**
-Midterms: Tuesday July 9<sup>th</sup> / 12:00 - 14:00 <br/>
+Midterms: Tuesday August 9<sup>th</sup> / 12:00 - 14:00 <br/>
 Finals: Monday October 17<sup>th</sup> / 13:00 - 16:00
