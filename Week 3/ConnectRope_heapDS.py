@@ -55,11 +55,6 @@ class heap:
         if len(self.a) > 0:
             self.buildHeap()
 
-
-# Example class definition for heap's element and test code
-
-testList = [i + 100 for i in range(10)]
-
 def getRopeMinCost(costs):
 
     pq1 = heap(costs)
