@@ -2,12 +2,6 @@ table_size = int(input())
 a = list(map(int, input().split()))
 hash_table = [[] for i in range(table_size)]
 
-def show_hash_table():
-    print('-------------------')
-    for item_list in hash_table:
-        print(item_list)
-    print('-------------------')
-
 def hash_func(key):
     return key % table_size
 
